@@ -1,7 +1,7 @@
-site_name: MAI Playbook
-site_url:  https://github.com/WH-GovHHS/mai-playbook
+site_name: My Website
+site_url:  https://https://github.com/PaulEdwardBrennan/MyWebsite
 nav:
-  - About Industrialized Data Science: hello.md
+  - About: hello.md
 
 
 theme: 
