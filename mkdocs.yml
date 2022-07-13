@@ -13,5 +13,5 @@ theme:
   palette:
     scheme: default
   
- plugins:
+plugins:
   - search  
