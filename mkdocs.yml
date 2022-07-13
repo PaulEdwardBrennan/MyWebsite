@@ -13,23 +13,5 @@ theme:
   palette:
     scheme: default
   
- 
-markdown_extensions:
-  - attr_list
-  - md_in_html
-  - pymdownx.emoji:
-      # See: https://emojipedia.org/
-      # Use the `Shortcodes` for Github, Slack
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
-
-plugins:
+ plugins:
   - search  
-
-# extra_css:
-#  - stylesheets/extra.css  
